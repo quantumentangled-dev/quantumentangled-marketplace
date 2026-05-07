@@ -1,0 +1,34 @@
+# quantumentangled marketplace
+
+Curated Claude Code plugins from Quantum Entangled — agents, skills, and workflows that just work.
+
+## Add the marketplace
+
+From inside Claude Code:
+
+```
+/plugin marketplace add quantumentangled-dev/quantumentangled-marketplace
+```
+
+Or non-interactively:
+
+```bash
+claude plugin marketplace add quantumentangled-dev/quantumentangled-marketplace
+```
+
+## Install plugins
+
+```
+/plugin install <plugin-name>@quantumentangled
+```
+
+## Available plugins
+
+| Plugin | Install | What it does |
+| :--- | :--- | :--- |
+| [`threejs-skills`](https://github.com/quantumentangled-dev/threejs-skills) | `/plugin install threejs-skills@quantumentangled` | Ten Three.js skills (fundamentals, geometry, materials, lighting, textures, animation, loaders, shaders, postprocessing, interaction) auto-loaded by Claude Code when working with Three.js. |
+
+## More
+
+- Marketplace authoring docs: <https://code.claude.com/docs/en/plugin-marketplaces>
+- Discover & install plugins: <https://code.claude.com/docs/en/discover-plugins>

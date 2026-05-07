@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "quantumentangled",
+  "description": "Quantum Entangled marketplace - agents, skills and workflows that just work",
+  "owner": {
+    "name": "Quantum Entangled",
+    "email": "contact@quantumentangled.dev"
+  },
+  "plugins": [
+    {
+      "name": "threejs-skills",
+      "source": {
+        "source": "github",
+        "repo": "quantumentangled-dev/threejs-skills",
+        "ref": "main",
+        "sha": "bd9eaf9b7a803e9722a5f32793a1eae0f68f6731"
+      },
+      "category": "development",
+      "tags": ["threejs", "graphics", "skills"]
+    }
+  ]
+}
