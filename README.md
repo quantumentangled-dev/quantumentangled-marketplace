@@ -26,7 +26,7 @@ claude plugin marketplace add quantumentangled-dev/quantumentangled-marketplace
 
 | Plugin | Install | What it does |
 | :--- | :--- | :--- |
-| [`threejs-skills`](https://github.com/quantumentangled-dev/threejs-skills) | `/plugin install threejs-skills@quantumentangled` | Ten Three.js skills (fundamentals, geometry, materials, lighting, textures, animation, loaders, shaders, postprocessing, interaction) auto-loaded by Claude Code when working with Three.js. |
+| [`threejs-skills`](https://github.com/quantumentangled-dev/threejs-skills) | `/plugin install threejs-skills@quantumentangled --scope project` | Ten Three.js skills (fundamentals, geometry, materials, lighting, textures, animation, loaders, shaders, postprocessing, interaction) auto-loaded by Claude Code when working with Three.js. |
 
 ## More
 
