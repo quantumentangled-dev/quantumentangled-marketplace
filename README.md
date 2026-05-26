@@ -27,6 +27,7 @@ claude plugin marketplace add quantumentangled-dev/quantumentangled-marketplace
 | Plugin | Install | What it does |
 | :--- | :--- | :--- |
 | [`threejs-skills`](https://github.com/quantumentangled-dev/threejs-skills) | `/plugin install threejs-skills@quantumentangled --scope project` | Ten Three.js skills (fundamentals, geometry, materials, lighting, textures, animation, loaders, shaders, postprocessing, interaction) auto-loaded by Claude Code when working with Three.js. |
+| [`ai-docs`](https://github.com/quantumentangled-dev/ai-docs-plugin) | `/plugin install ai-docs@quantumentangled` | Author AI-friendly HTML decks, reports, and dashboards via natural language; one-shot publish to GitHub Pages with a paired `.md` source for AI consumers. |
 
 ## More
 
