@@ -17,6 +17,17 @@
       },
       "category": "development",
       "tags": ["threejs", "graphics", "skills"]
+    },
+    {
+      "name": "ai-docs",
+      "source": {
+        "source": "github",
+        "repo": "quantumentangled-dev/ai-docs-plugin",
+        "ref": "v0.2.0",
+        "sha": "ded646377730aad81b802d8002e6cebf15695b17"
+      },
+      "category": "documentation",
+      "tags": ["documentation", "github-pages", "html", "decks"]
     }
   ]
 }
